@@ -1,5 +1,30 @@
-# Hi, I'm Fayne👋
-- 🧠 关注：Lakehouse / Query Engine / AI tools
+# Fayne
 
-# Stats
-![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+Data Systems / OLAP / Lakehouse
+@ ByteDance
+
+---
+
+### ⚙️ Working on
+
+* Query execution & optimization
+* Data infrastructure & storage
+* Large-scale system reliability
+
+---
+
+### 🎯 Focus
+
+* Performance under real workloads
+* Storage formats & data layout
+* Debugging complex production issues
+
+---
+
+### 🚗 Side
+
+* I love Zeeker
+
+---
+
+> Premature optimization is the root of all evil.
