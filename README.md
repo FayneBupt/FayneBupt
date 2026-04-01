@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Fayne👋
 
-<!--
-**FayneBupt/FayneBupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 大数据 / OLAP / Paimon / AI tools
+- 🧠 关注：Lakehouse / Query Engine
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+（可以加一些统计图）
+![stats](https://github-readme-stats.vercel.app/api?username=你的用户名)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World;I+love+Doris)
+
+![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
